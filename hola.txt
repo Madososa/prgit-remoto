@@ -3,3 +3,4 @@ Paso 4 Modificar el repositorio directamente desde Github
 Paso 5 Crear un conflicto. Punto 1
 Paso 5 Crear un conflicto Punto 2. Sin hacer pull realizar modificaciones en local
 Primera modificación hecha en rama Desarrollo
+Seguda modificación en rama Desarrollo
