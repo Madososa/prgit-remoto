@@ -1,4 +1,8 @@
 Hola mundo
 Paso 4 Modificar el repositorio directamente desde Github
+<<<<<<< HEAD
 Paso 5 Crear un conflicto. Punto 1
 
+=======
+Paso 5 Crear un conflicto Punto 2. Sin hacer pull realizar modificaciones en local
+>>>>>>> 51c17bf (Cambios punto 5)
